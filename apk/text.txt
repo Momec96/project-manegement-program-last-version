@@ -1,0 +1,5 @@
+mo	py
+hamza	py,c
+fred	cAtia
+orhan	c
+ahmet	py,solid,c

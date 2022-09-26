@@ -1,0 +1,16 @@
+x	8
+y	9
+z	7
+a	6
+b	6
+c	10
+d	5
+e	10
+f	7
+g	10
+mo	2
+fred	9
+orhan	8
+mahmut	8
+mehmet	6
+necip	9
