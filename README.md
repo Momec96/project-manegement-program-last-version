@@ -1,5 +1,9 @@
  I designed and implemented a Python program featuring a Graphical User Interface (GUI) using Tkinter that optimally allocates tasks to individuals based on their skills and availability. This program addresses the crucial objective of maximizing productivity by intelligently assigning tasks to the most suitable personnel. Additionally, I integrated a database using SQL, allowing for efficient storage and retrieval of relevant data. One special feature of the program is that it divides users into groups according to ratings or ability levels, therefore making it even more effective at optimizing work assignments and increasing team productivity.
 
+Türkçe:
+
+TÜBİTAK enstitüsünde stajım süresince , Python ve Tkinter kullanarak geliştirdiğim bir program arayüz üzerinde çalıştım. Bu program, bireylerin beceri ve yapmaya yatkın olduğu görevleri zekice atayan bir algoritmaya sahiptir. Ayrıca, SQL kullanarak entegre ettiğim bir veritabanı, ilgili verileri etkili bir şekilde depolama ve geri alma olanağı sağlamaktadır. Staj sürecimde TÜBİTAK'ta gerçekleştirdiğim bu projede, becerilerimi, teknik yeteneklerimi ve problem çözme yeteneğimi geliştirme fırsatı buldum.
+
 GÖREV DAĞITMA:
 
 ![Ekran görüntüsü 2024-01-27 181725](https://github.com/Momec96/project-manegement-program-last-version/assets/111732669/c2e04999-3194-4db2-a6b7-cd0810431f4d)
