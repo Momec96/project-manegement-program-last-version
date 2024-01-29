@@ -10,6 +10,7 @@ SONUÇLAR:
 
 
 GRUPLARA AYIRMA:
+
 ![Ekran görüntüsü 2024-01-27 181733](https://github.com/Momec96/project-manegement-program-last-version/assets/111732669/5eb9b0ff-8094-4b0a-9582-3db43222a932)
 
 SONUÇLAR:
